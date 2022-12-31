@@ -1,1 +1,2 @@
 # restaurant-page
+The goal of this project is to create a simple homepage for an imaginary restaurant that features a home, menu, and contact section. The purpose of this project is to practice DOM manipulation, webpack, and generating content dynamically with JS.
