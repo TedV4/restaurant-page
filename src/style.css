@@ -41,7 +41,10 @@ button:hover {
   text-decoration: underline;
 }
 
-.about-container {
+.about-container, .menu-container, .contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
   align-self: center;
   max-width: 50%;
   padding: 2em;
